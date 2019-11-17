@@ -1,0 +1,24 @@
+Q:
+How many cycles are in this graph ?
+Ans:
+3
+
+Note:
+Actually, there are larger than 3 cycles in this graph
+P->R->A->P
+P->S->R->A->P
+P->H->G->R->A->P
+P->S->H->G->R->A->P
+
+
+
+Q:
+Is this graph connected, weakly connected, or strongly connected?
+
+Ans:
+weakly connected.
+
+If all the directed edge change to un-directed one, this graph will be connected.
+
+Hint:
+Observe node u.

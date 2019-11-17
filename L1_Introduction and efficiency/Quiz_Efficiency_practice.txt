@@ -1,0 +1,11 @@
+Example_1
+O(n)
+
+Example_2
+O(1)
+
+Example_3
+O(mn)
+
+Example_4
+O(n^2)

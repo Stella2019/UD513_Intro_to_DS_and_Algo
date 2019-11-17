@@ -1,0 +1,4 @@
+What is the runtime of finding the length of a Python list
+O(1)
+
+len(list) return a length of a given length in constant time

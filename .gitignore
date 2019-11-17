@@ -12,9 +12,6 @@ Quiz_Recursion_practice.txt
 Quiz_Tree_practice.txt
 Quiz_TreeTraversal.txt
 Quzi_LoadFactor_practice.txt
-L2_List based collection/Quiz_LinkesList_practice.py
-L2_List based collection/Quiz_PythonList_practice.txt
-L2_List based collection/Quiz_Queue_practice.py
-L2_List based collection/Quiz_Stack_practice.py
 others/graph_representation.py
 others/graph_traversal.py
+.gitignore

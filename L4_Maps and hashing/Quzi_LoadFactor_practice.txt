@@ -1,0 +1,19 @@
+One of your coworkers comes to you with a hash function that divides a group of value by 100,
+and uses the remainder as a key.
+
+The value are 100 numbers that are all multiples of 5
+
+Load factor 
+= number of entries / number of slots 
+= 100 / 100 
+= 1 
+= 100 %
+
+
+What number would you recommend his function to devide by rather than 100 to speed it up ?
+
+107
+because 107 is coprime with 5, this property reduces the probability of collision.
+
+In addition, 107 is larger than the total number of entries, this guarantees that load factor would be < 100%
+

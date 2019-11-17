@@ -1,0 +1,10 @@
+Write out the order nodes would be visited in a post-order traversal
+
+D, F, E, B, C, A
+
+
+Port order rule:
+
+Visit Left subtree
+Visit Right subtree
+Visit Root node

@@ -1,0 +1,16 @@
+Sorting is pretty tedious—take a break and check out this comic inspired by merge sort.
+
+You can learn more about merge sort, as well as see many more visualizations, in the online Algorithms textbook. This book is often nice for a more in-depth analysis of topics, but beware—all of the examples are in Java! For merge sort, it's particularly worth reading up on top-down and bottom-up merge sort.
+
+
+If you were to perform a merge sort on the following awway, which is possibility for what the second iteration might look like (i.e. after bubbling all the way up 2 times)
+
+21 4 1 3 9 20 25
+-> divide
+[ 21 ] [ 4 ] [ 1 ] [ 3 ] [ 9 ] [ 20 ] [ 25 ]
+
+-> merge 1st time
+[ 21 ] [ 1, 4 ] [ 3, 9 ] [ 20, 25 ]
+
+-> merge 2nd time
+[ 1, 4 , 21 ] [ 3, 9, 20, 25]

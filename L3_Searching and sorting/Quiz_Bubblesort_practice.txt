@@ -1,0 +1,25 @@
+Sorting techniques can be tricky—sometimes the best way to understand them is to watch a visual of a sorting algorithm in action again and again. When I was first learning sorting, I used to check out the Wikipedia page for each sort. There's normally some colorful illustration near the top, then a GIF showing the sort in action. There are plenty of other visualizations on the World Wide Web—take the time to look around if you need it!
+
+
+If you were to perform a bubble sort on the following array, what would the third iteration look like
+(i.e. after bubbling all the way up 3 times)?
+
+[ 21, 4, 1, 3, 9, 20, 25, 6, 21, 14 ]
+
+-> bubble 1st time
+
+[ 4, 1, 3, 9, 20, 21, 6, 21, 14, 25 ]
+                                  v
+25 is fixed as largest element
+
+-> buble 2nd time
+
+[ 1, 3, 4, 9, 20, 6, 21, 14, 21, 25 ]
+			     v
+21 is fixed as second largest element
+
+-> bubble 3rd time
+
+[ 1, 3, 4, 9, 6, 20, 14, 21, 21, 25]
+			 v
+another 21 is fixed as third largest element

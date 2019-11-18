@@ -7,7 +7,7 @@ https://www.udacity.com/course/data-structures-and-algorithms-in-python--ud513
 
 Table of content:
 
-*# Lesson 1: Introduction and efficiency
+## Lesson 1: Introduction and efficiency
 
   Concept of time and space complexity
 
@@ -16,7 +16,7 @@ Table of content:
   Evaluate complexity of an algorithm
 
 
-*# Lesson 2: List based collection
+## Lesson 2: List based collection
   
   Concept of container
 
@@ -31,7 +31,7 @@ Table of content:
   Abstract Data Type - Linked List, and implementation
   
 
-*# Lesson 3: Searching and Sorting
+## Lesson 3: Searching and Sorting
 
   Concept of efficienct algorithm
   
@@ -52,7 +52,7 @@ Table of content:
   Recursion example - Fibonacci sequence
   
  
-*# Lesson 4: Maps and Hashing
+## Lesson 4: Maps and Hashing
  
   Concept of key-value pair
   
@@ -67,7 +67,7 @@ Table of content:
   Abstract Data Type - Hash, and implementation
  
 
-*# Lesson 5: Trees
+## Lesson 5: Trees
 
   Concept of tree, and terminology
   
@@ -85,7 +85,7 @@ Table of content:
   Concept of Red-black Tree
   
   
-*# Lesson 6: Graph
+## Lesson 6: Graph
 
   Concept of grpah, and terminology
   
